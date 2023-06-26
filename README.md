@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyuenmin-choi Senior undergraduate in KAIST(Korea Advanced Institution of Science and Technology)
-- 👀 I’m interested in computer architecture especially in system for ML!
+- 👀 I’m interested in computer architecture especially in system for AI!
 - 🌱 I’m currently learning PIM(processing in memeory), GPU system
 - 📫 Contact me -> wisestone1213@gmail.com or wisestone1213@kaist.ac.kr
 
